@@ -38,7 +38,7 @@ export default function Navbar() {
          < li onClick={goHome}>Home</li>
           <li onClick={goCategories}>Categories</li>
           <li onClick={goAbout}>About</li>
-        </ul>
+      </ul>
       </nav>
     </>
   )
