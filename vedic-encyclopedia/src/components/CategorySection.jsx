@@ -23,8 +23,7 @@ export default function CategorySection() {
   ];
 
   return (
-  <section
-  id="category"
+  <section id="categories"
   className="w-full mb-32 scroll-mt-32"
 >
 
